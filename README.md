@@ -1,4 +1,4 @@
-# GRIP Task 7: Stock-Market-Prediction-using-Numerical-and-Textual-Analysis
+Stock-Market-Prediction-using-Numerical-and-Textual-Analysis
 Stock Market Prediction of S&amp;P BSE Sensex using Numerical and Textual Analysis
 Implemented five models and following results were observed:
 
