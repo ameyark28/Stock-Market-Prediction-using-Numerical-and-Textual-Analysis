@@ -8,4 +8,4 @@ Implemented five models and following results were observed:
 - LightGBM = 0.0583079056070462
 - XGBoost = 0.05968830860645931
 
-From here we can see that Random Forest Regressor shows a better performance than the others
+Hence it can be observed that Random Forest Regressor outperforms other models.
